@@ -3,4 +3,6 @@ alpine              latest              e7d92cdc71fe        4 days ago          
 ------
 bash-5.0#
 ------
+sh: bash: not found
+------
 

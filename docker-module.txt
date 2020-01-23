@@ -1,2 +1,6 @@
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
 alpine              latest              e7d92cdc71fe        4 days ago          5.59MB
+------
+bash-5.0#
+------
+

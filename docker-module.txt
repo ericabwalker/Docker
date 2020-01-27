@@ -11,4 +11,15 @@ Hello, World!
 -------
 Hello, World!
 -------
+REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+gentux/alpine-bash        ericabwalker        8d6ce0345589        7 minutes ago       9.67MB
+<none>                    <none>              f2e0f63dd6dc        25 minutes ago      9.67MB
+<none>                    <none>              2a3407edfc19        2 days ago          9.67MB
+alpinetest                latest              dacfbf2de987        3 days ago          5.59MB
+ericabwalker/cheers2019   latest              64bcafc28bfa        4 days ago          4.01MB
+<none>                    <none>              5a2e875214d5        4 days ago          356MB
+alpine                    latest              e7d92cdc71fe        9 days ago          5.59MB
+golang                    1.11-alpine         e116d2efa2ab        5 months ago        312MB
+dockercloud/hello-world   latest              0b898a637c19        2 years ago         30.8MB
+------
 
